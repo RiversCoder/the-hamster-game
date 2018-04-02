@@ -11,7 +11,7 @@
         Laya.stage.screenMode = Laya.Stage.SCREEN_HORIZONTAL;
 
         //设置舞台的背景颜色
-        Laya.stage.bgColor = 'pink';
+        Laya.stage.bgColor = '#fff';
         //加载资源
         Laya.loader.load("res/atlas/comp.atlas",Laya.Handler.create(this,onLoaded),null,Laya.Loader.ATLAS);
     })();
