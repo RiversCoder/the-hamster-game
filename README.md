@@ -74,3 +74,8 @@
 ### 结束游戏界面
 
 ![hit hammer game](/folders/gamend.png "end game")
+
+
+### 个人博客地址
+
+[小青蛙的博客 >> 欢迎关注](http://blog.sina.com.cn/riversfrog) 
