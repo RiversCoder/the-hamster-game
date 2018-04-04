@@ -73,7 +73,7 @@
 
 ### 结束游戏界面
 
-![hit hammer game](/folders/gamend.png "end game")
+![hit hammer game](/folders/gameover.png "end game")
 
 
 ### 个人博客地址
